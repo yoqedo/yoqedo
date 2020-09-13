@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 
 - 🔭 I’m currently working with Flutter/Dart
 - 🌱 I’m currently learning Flutter
