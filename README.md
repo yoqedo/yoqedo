@@ -9,5 +9,5 @@
 
 - [On/OFF Toggle Button](https://github.com/yoqedo/flutter_animated_onoffbutton/blob/master/onoffbutton/lib/main.dart)
 - [Circle Animation Menu](https://github.com/yoqedo/flutter_animated_onoffbutton/blob/master/onoffbutton/lib/main.dart)
-- [On OFF Toggle Button](https://github.com/yoqedo/flutter_animated_onoffbutton/blob/master/onoffbutton/lib/main.dart)
+- [Animated Splash Button](https://github.com/yoqedo/flutter_animated_onoffbutton/blob/master/onoffbutton/lib/main.dart)
 
