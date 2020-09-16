@@ -11,4 +11,4 @@
 - [Circle Animation Menu](https://github.com/yoqedo/flutter_animated_onoffbutton/blob/master/onoffbutton/lib/main.dart)
 - [Animated Splash Button](https://github.com/yoqedo/flutter_animated_onoffbutton/blob/master/onoffbutton/lib/main.dart)
 - [Dark and Light Neumorphic Button](https://github.com/yoqedo/flutter_animated_onoffbutton/blob/master/onoffbutton/lib/main.dart)
-# 💎 [more](https://github.com/yoqedo/flutter_animated_onoffbutton/blob/master/onoffbutton/lib/main.dart)
+
