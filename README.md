@@ -14,5 +14,4 @@
 
 ➡️ [more Repos's](https://github.com/yoqedo/flutter_animated_onoffbutton/blob/master/onoffbutton/lib/main.dart)
 
-# Test
-[testing](img src="https://github.com/yoqedo/flutter_onboarding_app/blob/master/onboarding/assets/images/Screenshot1.png" width="250")
+
