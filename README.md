@@ -15,5 +15,6 @@
 ➡️ [more Repos's](https://github.com/yoqedo/flutter_animated_onoffbutton/blob/master/onoffbutton/lib/main.dart)
 
 # Test
-<img src="onboarding/assets/images/Screenshot1.png" width="250"> <img src="onboarding/assets/images/Screenshot2.png" width="250"> <img src="onboarding/assets/images/Screenshot3.png" width="250">
+<img src="flutter_onboarding_app/onboarding/assets/images/Screenshot1.png" width="250"> 
+
 
