@@ -2,8 +2,9 @@
 
 - 🔭 I’m currently working with Flutter/Dart
 - 🌱 I’m currently learning Flutter
-- 🤔 I’m looking for help with APP Development
+- 🤔 I’m looking for some APP Projects
 - 💬 Ask me about Flutter
+- 💬 How to reach me ... [Instagram](https://www.instagram.com/yoqedo/)
 
 ### 💎 Latest uploaded Repo's (direct to the Code): 
 
