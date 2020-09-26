@@ -3,7 +3,6 @@
 - 🔭 I’m currently working with Flutter/Dart
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for some APP Projects
-- 💬 How to reach me ... [Instagram](https://www.instagram.com/yoqedo/)
 - 💬 Quick [Overview](https://www.instagram.com/yoqedo/) of my Work
 
 ### 💎 Latest uploaded Repo's (direct to the Code): 
