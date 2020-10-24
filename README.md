@@ -5,7 +5,7 @@
 - 🤔 I’m looking for some APP Projects
 - 💬 Overview of my Work on Instagram [@yoqedo](https://www.instagram.com/yoqedo/) 
 
-### 💎 Latest uploaded Repo's (direct to the Code): 
+### 💎 Checkout all Repo's: 
 
 - [Flutter Animations - Code to all Insta Posts](https://github.com/yoqedo/flutter_Animations)
 - [MultiOption Button](https://github.com/yoqedo/flutter_multioption_button/blob/main/multioption/lib/multioptionButton.dart)
