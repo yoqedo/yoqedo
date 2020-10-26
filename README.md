@@ -7,4 +7,4 @@
 
 ➡️ [all Repos's](https://github.com/yoqedo?tab=repositories)
 
-#### Support and Follow me on Instagram [@yoqedo](www.instagram.com/yoqedo)
+#### Support and Follow me on Instagram [@yoqedo](https://www.instagram.com/yoqedo/)
