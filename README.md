@@ -1,4 +1,4 @@
-### 👋 Hi everybody, here is what i currently do..
+### 👋 Hi everybody, Welcome to My Github Profile
 
 - 🔭 I’m currently working with Flutter/Dart
 - 🌱 I’m currently learning Flutter
