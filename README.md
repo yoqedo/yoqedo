@@ -4,6 +4,7 @@
 - 🌱 Like to learn new things
 - 🤔 I’m always looking for some intersting Projects
 
+#### See my Projects [@yoqedo projects overview](https://yprojects.netlify.app/)
 #### Support and Follow me on Instagram [@yoqedo](https://www.instagram.com/yoqedo/)
 
 ### Skills
