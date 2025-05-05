@@ -19,3 +19,43 @@
 
                   
                     
+# 👋 Hallo, ich bin [Dein Name] – IT-Fachmann & angehender Cloud-Spezialist ☁️
+
+Ich bin gelernter Informatiker EFZ mit Schwerpunkt Systemtechnik und bringe fundierte Erfahrung im Bereich **Systemadministration, Netzwerke und IT-Support** mit.  
+Aktuell bilde ich mich im Bereich **Cloud-Computing mit Microsoft Azure** weiter und bereite mich aktiv auf die **AZ-900 Zertifizierung** vor.
+
+---
+
+## 🚀 Ziele & Schwerpunkte
+
+- ☁️ Einstieg in Cloud-Architektur mit Fokus auf **Microsoft Azure**
+- 🎯 Zertifizierung: **AZ-900 – Microsoft Azure Fundamentals**
+- 🔧 Ausbau meiner Kenntnisse im Bereich **DevOps, IaaS, PaaS**
+- 🧠 Selbstorganisiertes Lernen, Praxisprojekte & Demos
+
+---
+
+## 📚 Aktive Lernprojekte
+
+| Projekt | Beschreibung |
+|--------|--------------|
+| [learning-AZ-900](https://github.com/deinName/learning-AZ-900) | Lernplan & Praxisprojekte zur Vorbereitung auf AZ-900 |
+| [web-projects](https://github.com/deinName/web-projects) | Sammlung kleiner HTML/CSS/JS-Webprojekte |
+| [python-projects](https://github.com/deinName/python-projects) | Erste Automatisierungs- und Skriptideen mit Python |
+
+---
+
+## 💼 Beruflicher Hintergrund
+
+- 👨‍💻 Ausbildung: Informatiker EFZ (Fachrichtung Systemtechnik)
+- 🖥️ Erfahrung mit Windows-/Linux-Servern, Netzwerken, VMware
+- 📍 Standort: Schweiz 🇨🇭
+- 🔍 Offen für neue Herausforderungen im Bereich **Cloud & Infrastruktur**
+
+---
+
+## 🛠️ Technologien & Tools
+
+```text
+Azure · Windows Server · Active Directory · Networking
+PowerShell · Git · Linux · HTML/CSS · VS Code
