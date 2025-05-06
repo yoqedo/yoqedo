@@ -19,7 +19,7 @@
 
                   
                     
-# 👋 Hallo, ich bin [Dein Name] – IT-Fachmann & angehender Cloud-Spezialist ☁️
+### 👋 Hallo, ich bin [Dein Name] – IT-Fachmann & angehender Cloud-Spezialist ☁️
 
 Ich bin gelernter Informatiker EFZ mit Schwerpunkt Systemtechnik und bringe fundierte Erfahrung im Bereich **Systemadministration, Netzwerke und IT-Support** mit.  
 Aktuell bilde ich mich im Bereich **Cloud-Computing mit Microsoft Azure** weiter und bereite mich aktiv auf die **AZ-900 Zertifizierung** vor.
