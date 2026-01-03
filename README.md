@@ -42,25 +42,3 @@ Azure · Windows Server · Active Directory · Networking
 PowerShell · Git · Linux · HTML/CSS · Javascript · React · VS Code
 ```
 
-# Hi, I'm Project49
-
-IT System Engineer with a focus on **Windows Server** and **Azure hybrid infrastructure**.
-
-This GitHub profile is used to document hands-on projects, labs and technical learnings around:
-- On-premises and hybrid Windows environments
-- Identity, networking and infrastructure operations
-- Automation and operational tooling
-
-Alongside infrastructure topics, I occasionally work with **JavaScript** and **React** for small tools and personal projects.
-
----
-
-## Focus Areas
-
-- Windows Server (On-Premises & Hybrid)
-- Azure Hybrid Infrastructure
-- Identity & Access (AD, Hybrid Identity)
-- Automation & Operations
-- Technical Documentation & Learning Projects
-
----
