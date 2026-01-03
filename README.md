@@ -1,35 +1,16 @@
-### 👋 Hi everybody, Welcome to My Github Profile
-
-- 🔭 I’m currently working on Frontend and Mobile Development
-- 🌱 Like to learn new things
-- 🤔 I’m always looking for some intersting Projects
-
-#### Support and Follow me on Instagram [@yoqedo](https://www.instagram.com/yoqedo/)
-
-### Skills
-<p align="left">
-                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-                                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-                                <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-                                <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-                                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-                                
-
-                  
                     
-## 👋 Hallo und Willkommen – IT-Fachmann & angehender Cloud-Spezialist ☁️
+## 👋 Hallo und Willkommen
 
-Ich bin gelernter Informatiker EFZ mit Schwerpunkt Systemtechnik und bringe fundierte Erfahrung im Bereich **Systemadministration, Netzwerke und IT-Support** mit.  
-Aktuell bilde ich mich im Bereich **Cloud-Computing mit Microsoft Azure** weiter und bereite mich aktiv auf die **AZ-900 Zertifizierung** vor.
+Ich bin gelernter **Informatiker EFZ** mit Schwerpunkt Systemtechnik mit Erfahrung in Systemadministration, Netzwerken und IT-Support.
+Derzeit erweitere ich mein Wissen im Bereich **Microsoft Azure** (AZ-104).
+Zusätzlich interessiere ich mich für **JavaScript und React**, die ich für kleinere Anwendungen und technische Nebenprojekte einsetze.
 
 ---
 
 ## 🚀 Ziele & Schwerpunkte
 
 - ☁️ Einstieg in Cloud-Architektur mit Fokus auf **Microsoft Azure**
-- 🎯 Zertifizierung: **AZ-900 – Microsoft Azure Fundamentals**
+- 🎯 Zertifizierung: **AZ-104**
 - 🔧 Ausbau meiner Kenntnisse im Bereich **DevOps, IaaS, PaaS**
 - 🧠 Selbstorganisiertes Lernen, Praxisprojekte & Demos
 
@@ -58,4 +39,28 @@ Aktuell bilde ich mich im Bereich **Cloud-Computing mit Microsoft Azure** weiter
 
 ```text
 Azure · Windows Server · Active Directory · Networking
-PowerShell · Git · Linux · HTML/CSS · VS Code
+PowerShell · Git · Linux · HTML/CSS · Javascript · React · VS Code
+```
+
+# Hi, I'm Project49
+
+IT System Engineer with a focus on **Windows Server** and **Azure hybrid infrastructure**.
+
+This GitHub profile is used to document hands-on projects, labs and technical learnings around:
+- On-premises and hybrid Windows environments
+- Identity, networking and infrastructure operations
+- Automation and operational tooling
+
+Alongside infrastructure topics, I occasionally work with **JavaScript** and **React** for small tools and personal projects.
+
+---
+
+## Focus Areas
+
+- Windows Server (On-Premises & Hybrid)
+- Azure Hybrid Infrastructure
+- Identity & Access (AD, Hybrid Identity)
+- Automation & Operations
+- Technical Documentation & Learning Projects
+
+---
