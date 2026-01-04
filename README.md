@@ -22,7 +22,6 @@ Zusätzlich interessiere ich mich für **JavaScript und React**, die ich für kl
 |--------|--------------|
 | [learning-AZ-900](https://github.com/deinName/learning-AZ-900) | Lernplan & Praxisprojekte zur Vorbereitung auf AZ-900 |
 | [web-projects](https://yprojects.netlify.app) | Sammlung kleiner HTML/CSS/JS-Webprojekte |
-| [python-projects](https://github.com/deinName/python-projects) | Erste Automatisierungs- und Skriptideen mit Python |
 
 ---
 
