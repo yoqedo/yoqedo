@@ -8,6 +8,6 @@ Baue minimalistische, privacy‑first Tools mit **React** und **Swift**.
 - Swift / SwiftUI  
 
 ## Links
-X: https://x.com/sysinformatik
-GitHub: https://github.com/yoqedo  
-Instagram: https://instagram.com/yoqedo
+- X: https://x.com/sysinformatik
+- GitHub: https://github.com/yoqedo  
+- Instagram: https://instagram.com/yoqedo
