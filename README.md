@@ -1,10 +1,10 @@
 # yoqedo
 
 Frontend‑ und App‑Entwickler.  
-Baue minimalistische, privacy‑first Tools mit **React** und **Swift**.
+Baue minimalistische Tools mit **React** und **Swift**.
 
 ## Tech Stack
-- React / Next.js  
+- Vanilla JS / React / Next.js  
 - Swift / SwiftUI  
 
 ## Links
